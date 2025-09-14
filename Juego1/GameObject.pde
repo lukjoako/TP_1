@@ -1,4 +1,3 @@
-// Clase base para objetos del juego
 class GameObject {
   Vector posicion;
   Vector tamano;

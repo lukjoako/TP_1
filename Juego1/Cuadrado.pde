@@ -1,4 +1,3 @@
-// Clase para el jugador (cuadrado)
 class Cuadrado extends GameObject {
   float velocidad;
   
