@@ -1,4 +1,3 @@
-// Clase Vector para manejar posiciones
 class Vector {
   float x, y;
   

@@ -1,4 +1,3 @@
-// Clase principal del juego
 Juego juego;
 
 void setup() {

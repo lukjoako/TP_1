@@ -1,5 +1,3 @@
-
-// Clase principal que controla el juego
 class Juego {
   Cuadrado jugador;
   Obstaculo[] obstaculos;

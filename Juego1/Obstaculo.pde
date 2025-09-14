@@ -1,4 +1,3 @@
-// Clase para los obstáculos
 class Obstaculo extends GameObject {
   float velocidad;
   
